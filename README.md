@@ -12,7 +12,7 @@ This Electron application is designed to load a specified website URL in a full-
 
 - Loads a website URL in a full-view iframe.
 - Provides an "About" menu with a description of the app.
-- Displays an error message if the website cannot be loaded, with a link to open the site manually in a browser.
+- Displays an error message if the website cannot be loaded, with a link to open the site manually in a browser to inspect.
 
 ## How to Use
 
