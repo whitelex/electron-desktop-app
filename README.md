@@ -1,4 +1,4 @@
-# My Electron App
+# Electron Desktop App
 
 ## Purpose
 
