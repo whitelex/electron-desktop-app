@@ -2,7 +2,9 @@
 
 ## Purpose
 
-This Electron application is designed to load a specified website URL in a full-view iframe. The URL can be configured in the `config.json` file, allowing users to easily change the website being displayed.
+This Electron application is designed to load a specified website URL in a full-view iframe. The URL and the title can be configured in the `config.json` file, allowing users to easily change the website being displayed.
+
+![My Image](my-electron-app.png)
 
 ## Features
 
