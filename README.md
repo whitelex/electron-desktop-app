@@ -4,7 +4,7 @@
 
 This Electron application is designed to load a specified website URL in a full-view iframe. The URL and the title can be configured in the `config.json` file, allowing users to easily change the website being displayed.
 
->>Example of REACT app loaded into the app by providing the URL in the `config.json`
+## Example of REACT app loaded into the app by providing the URL in the `config.json`
 
 ![My Image](my-electron-app.png)
 
