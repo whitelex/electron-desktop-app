@@ -25,7 +25,7 @@ function createWindow () {
                         dialog.showMessageBox({
                             type: 'info',
                             title: 'About',
-                            message: 'My Electron App\nVersion 1.0.0\n\nThis is a sample Electron application.',
+                            message: 'My Electron App\nVersion 1.0.0\n\nThis is a sample Electron application developed by Whitelex (github.com/whitelex)',
                             buttons: ['OK']
                         });
                     }

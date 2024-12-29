@@ -1,3 +1,4 @@
 {
-    "websiteUrl": "http://localhost:3000"
+    "websiteUrl": "http://localhost:3000",
+    "title": "My Electron App"
 }
